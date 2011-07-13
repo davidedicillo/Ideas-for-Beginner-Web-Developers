@@ -1,0 +1,10 @@
+1.	Simple blog with comments
+2.	Pastebin that has short urls (Google some short url algorithms)
+3.	Make a todo list website (without Javascript)
+4.	Go back and add authentication (I used devise) to #1 and #2
+5.	Build a site to send text messages for you using Twilio
+6.	Create a small site to upload files to using Amazon S3′s free account, this time make it
+7.	Go Back to #3 and Ajaxify it all. Add user accounts (with email reminders). I built Fluttrly.com somewhat like this.
+8.	Build your own JSON and XML API onto #3 or any of the other sites
+9.	Now take that API you just built and create a Ruby gem out of it using ActiveResource
+10.	Certainly by now you should have come up with some ideas of your own that you’d like to build. If not, go build an expense tracker with pretty graphs and export to CSV or Freshbooks functionality.
