@@ -7,4 +7,3 @@
 7.	Go Back to #3 and Ajaxify it all. Add user accounts (with email reminders).
 8.	Build your own JSON and XML API onto #3 or any of the other sites
 9.	Now take that API you just built and create a Ruby gem out of it using ActiveResource
-10.	Certainly by now you should have come up with some ideas of your own that you’d like to build. If not, go build an expense tracker with pretty graphs and export to CSV or Freshbooks functionality.
